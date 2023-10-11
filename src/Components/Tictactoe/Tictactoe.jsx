@@ -99,7 +99,7 @@ const Tictactoe = () => {
             </div>
             <button className="reset" onClick={() => { reset() }}>Reset</button>
             <p className="icons">
-                <a href="https://www.flaticon.com/fr/icones-gratuites/x" title="x icônes">X icônes créées par Stockio - Flaticon</a> - <a href="https://www.flaticon.com/fr/icones-gratuites/ui" title="ui icônes">Ui icônes créées par Graphics Plazza - Flaticon</a></p>
+                <a href="https://www.flaticon.com/fr/icones-gratuites/x" title="x icônes" target="_blank">X icônes créées par Stockio - Flaticon</a> - <a href="https://www.flaticon.com/fr/icones-gratuites/ui" title="ui icônes" target="_blank">Ui icônes créées par Graphics Plazza - Flaticon</a></p>
         </div>
     );
 }
